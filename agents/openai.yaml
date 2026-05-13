@@ -1,0 +1,5 @@
+interface:
+  display_name: "UI Mock Spec Review"
+  short_description: "Sort generated UI mock ideas against app specs"
+  default_prompt: "Use $ui-mock-spec-review to compare this generated UI mock with the app's real specs and propose what to adopt."
+
